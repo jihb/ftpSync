@@ -1,2 +1,2 @@
 # ftpSync
-ftpSync python test
+ftpSync python
